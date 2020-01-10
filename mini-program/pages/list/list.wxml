@@ -1,0 +1,6 @@
+
+<view class="" hover-class="none" hover-stop-propagation="false">
+  {{ json }}
+</view>
+<image src="{{img}}" mode="cover" />
+
